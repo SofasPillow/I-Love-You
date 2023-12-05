@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-image: url(https://cdn.thedesigninspiration.com/wp-content/uploads/2010/08/Pink-Love-Hearts-l.jpg);
+    background-color: #cccccc;
+}
+
+
+h1 {
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 33px;
+}
+
+#vid-1 {
+   width: 15%;
+   margin-left:auto;
+}
+
+#photo-1 {
+    width: 15%;
+}
+
+#photo-2 {
+    width: 40%;
+}
